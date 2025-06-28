@@ -5,7 +5,7 @@ This is a mini project built using *Python, **Jupyter Notebook, and **Excel* to 
 🔧 Features
 - Reads sales data from Excel (.xlsx)
 - Calculates total sales for each product
-- Groups sales by date
+- Groups sales by product and date
 - Visualizes results using bar and line charts (matplotlib)
 
 🧰 Tools & Libraries Used
