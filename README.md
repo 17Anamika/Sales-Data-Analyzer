@@ -29,12 +29,12 @@ This is a mini project built using *Python, **Jupyter Notebook, and **Excel* to 
 ✨ Output Example
 
 https://github.com/17Anamika/Sales-Data-Analyzer/blob/main/sales_chart.png?raw=true
+https://github.com/17Anamika/Sales-Data-Analyzer/blob/main/sales_chart1.png?raw=true
 
 
 
 
 
-
-## 👩‍💻 Author
+👩‍💻 Author
 Made  by Anamika mishra  
 
